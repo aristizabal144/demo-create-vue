@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
+      <i class="fas fa-users"></i>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
